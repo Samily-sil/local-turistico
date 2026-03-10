@@ -1,0 +1,20 @@
+* {
+    margin: 8px;
+    padding: 0;
+}
+
+body{
+    background-color: #ffe7d4;
+    border: 5px solid #5b0d0d;
+    border-radius: 20px;
+    min-height: 100vh;
+    margin: 10px;
+
+}
+
+img {
+    display: flex;
+    border-radius: 16px;
+    width: 900px;
+    align-items: center;
+}
