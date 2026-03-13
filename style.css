@@ -17,7 +17,7 @@ body{
 img {
     display: flex;
     border-radius: 16px;
-    width: 90%;
+    width: 80%;
     align-items: center;
     border: 1px solid #6b4229;
     display: block;
@@ -72,6 +72,9 @@ p {
   color: #4c1f03;
   padding: 10px;
   font-size: 22px;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1000px;
 }
 
 section{
